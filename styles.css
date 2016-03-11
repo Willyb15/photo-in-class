@@ -1,0 +1,39 @@
+body{
+	padding-top:60px;
+}
+nav img{
+	max-height: 34px;
+}
+ul{
+	list-style-type:none;
+}
+ul.nav-list{
+	float:right;
+}
+ul.nav-list li{
+	float: left;
+	color: #fff;
+	margin: 3px 6px;
+}
+.list-items li{
+	float:left;
+	margin: 0px 28px;
+	overflow: hidden;
+}
+ul.bottom-list{
+	
+}
+
+h3{
+	margin: -8px -30px;
+}
+.thumb.text-center{
+	margin-top: 15px;
+}
+
+.bottom{
+	background-color: #cccccc;
+	margin-bottom: 5px;
+	padding: 7px;
+
+}
